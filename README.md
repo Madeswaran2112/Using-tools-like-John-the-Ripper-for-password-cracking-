@@ -56,9 +56,11 @@ john --show myhashes.txt
 ## Save A file named hello.txt :
 ## Encrypt with password the file 
 
+![Uploading WhatsApp Image 2025-09-27 at 14.19.38_a67ae208.jpg…]()
 
 
 
+![WhatsApp Image 2025-09-27 at 14 19 06_14825556](https://github.com/user-attachments/assets/9739e197-8e39-4014-ad7c-0fe941a1ec42)
 
 
 ## Run john helper:
@@ -75,6 +77,8 @@ john --show myhashes.txt
 ```bash
 zip2jhon bello.txt.zip > hash.txt
 ```
+
+![IMG-20250927-WA0006](https://github.com/user-attachments/assets/bf765645-8872-4285-a6e4-19c94545e6ff)
 
 
 ![IMG-20250927-WA0007](https://github.com/user-attachments/assets/d05a433d-a2a1-49d8-a235-4c6d2cd92832)

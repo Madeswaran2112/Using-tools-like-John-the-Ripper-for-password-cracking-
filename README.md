@@ -53,6 +53,34 @@ john --show myhashes.txt
 3. **Cracking Phase** – John the Ripper runs through candidate passwords.
 4. **Password Recovery** – Successfully cracked passwords are displayed.
 
+## Save A file named hello.txt :
+## Encrypt with password the file 
+
+
+
+
+
+
+## Run john helper:
+
+![IMG-20250927-WA0009](https://github.com/user-attachments/assets/9d033b6e-cd53-47c3-b772-3e4d469adeba)
+
+
+![IMG-20250927-WA0008](https://github.com/user-attachments/assets/c70b11a7-3804-4868-a281-a4035ae477db)
+
+
+## In john terminal change the directory 
+
+## Use Zip2john command  
+```bash
+zip2jhon bello.txt.zip > hash.txt
+```
+
+
+![IMG-20250927-WA0007](https://github.com/user-attachments/assets/d05a433d-a2a1-49d8-a235-4c6d2cd92832)
+
+
+
 ## OUTPUT:
 Cracked Passwords from Hash File
 
